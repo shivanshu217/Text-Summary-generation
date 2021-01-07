@@ -16,7 +16,7 @@ are necessary because these words occurs most number of times, frequency wise
 dominate every sentences and serves no real purpose.
 
 STEP 2
-In the next step, we will nd vector representation (word embedding) for each
+In the next step, we will find vector representation (word embedding) for each
 and every sentence.Vectorizing of sentences means representing sentences in numer-
 ical form. It is not possible to perform mathematical operations on words, alpha-
 bets Hence vectorizing a sentence mean to convert and represent in mathematical
@@ -46,5 +46,5 @@ lection to adjust approximate PageRank values to more closely reect the theoreti
 true value.
 
 STEP 5
-Finally, a certain number of top-ranked sentences form the nal summary,Based on
+Finally, a certain number of top-ranked sentences form the final summary,Based on
 scores of each sentences.
