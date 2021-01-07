@@ -1,4 +1,4 @@
-# Text-Summay-generation
+# Text-Summary-generation
 
 TEXTRANK is an extractive and unsupervised text summarization technique.Unlike PageR-
 ank Method,we are using Sentences in places of Webpages.Similarity between any
